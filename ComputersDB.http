@@ -1,0 +1,6 @@
+@ComputersDB_HostAddress = http://localhost:5187
+
+GET {{ComputersDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
